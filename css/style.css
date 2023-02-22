@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+.Top-container {
+  background-color: #F6E7D8;
+}
+
+.Middle-container {
+  background-color: #F68989;
+  height: 200px;
+  width: 200px;
+}
+
+.Bottom-container {
+  background-color: #C65D7B;
+  height: 200px;
+  width: 200px;
+}
